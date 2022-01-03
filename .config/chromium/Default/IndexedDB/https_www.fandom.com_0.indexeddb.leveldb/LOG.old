@@ -1,0 +1,7 @@
+2021/12/20-21:10:02.910 3fee Reusing MANIFEST /home/z/.config/chromium/Default/IndexedDB/https_www.fandom.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/20-21:10:02.910 3fee Recovering log #3
+2021/12/20-21:10:02.910 3fee Reusing old log /home/z/.config/chromium/Default/IndexedDB/https_www.fandom.com_0.indexeddb.leveldb/000003.log 
+2021/12/20-22:47:14.587 5b0e Level-0 table #5: started
+2021/12/20-22:47:14.595 5b0e Level-0 table #5: 4666 bytes OK
+2021/12/20-22:47:14.606 5b0e Delete type=0 #3
+2021/12/20-22:47:14.606 5b0e Manual compaction at level-0 from (begin) .. (end); will stop at (end)

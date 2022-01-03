@@ -1,0 +1,6 @@
+2021/12/28-22:57:16.260 120a Creating DB /home/z/.config/chromium/Default/IndexedDB/https_amgreatness.com_0.indexeddb.leveldb since it was missing.
+2021/12/28-22:57:16.288 120a Reusing MANIFEST /home/z/.config/chromium/Default/IndexedDB/https_amgreatness.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/28-22:57:30.478 109b Level-0 table #5: started
+2021/12/28-22:57:30.486 109b Level-0 table #5: 5873 bytes OK
+2021/12/28-22:57:30.497 109b Delete type=0 #3
+2021/12/28-22:57:30.497 109b Manual compaction at level-0 from (begin) .. (end); will stop at (end)

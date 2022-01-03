@@ -1,0 +1,15 @@
+2021/12/27-04:07:09.428 17ab Reusing MANIFEST /home/z/.config/chromium/Default/IndexedDB/https_www.brain.fm_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/27-04:07:09.428 17ab Recovering log #4
+2021/12/27-04:07:09.428 17ab Reusing old log /home/z/.config/chromium/Default/IndexedDB/https_www.brain.fm_0.indexeddb.leveldb/000004.log 
+2021/12/27-19:16:24.959 7ebf Level-0 table #8: started
+2021/12/27-19:16:24.965 7ebf Level-0 table #8: 1701 bytes OK
+2021/12/27-19:16:24.977 7ebf Delete type=0 #4
+2021/12/27-19:16:24.978 7ebf Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/12/27-19:16:24.978 7ebf Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 242 : 1
+2021/12/27-19:16:24.978 7ebf Compacting 1@1 + 1@2 files
+2021/12/27-19:16:24.986 7ebf Generated table #9@1: 69 keys, 1373 bytes
+2021/12/27-19:16:24.987 7ebf Compacted 1@1 + 1@2 files => 1373 bytes
+2021/12/27-19:16:24.999 7ebf compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/12/27-19:16:24.999 7ebf Delete type=2 #8
+2021/12/27-19:16:24.999 7ebf Delete type=2 #5
+2021/12/27-19:16:24.999 7ebf Manual compaction at level-1 from '\x00\x02\x01\x02\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 242 : 1 .. (end); will stop at (end)

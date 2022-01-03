@@ -1,0 +1,14 @@
+2021/12/12-05:42:13.533 69ba Reusing MANIFEST /home/z/.config/chromium/Default/IndexedDB/https_js.ad-score.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/12-05:42:13.533 69ba Recovering log #6
+2021/12/12-05:42:13.533 69ba Reusing old log /home/z/.config/chromium/Default/IndexedDB/https_js.ad-score.com_0.indexeddb.leveldb/000006.log 
+2021/12/12-05:42:13.716 6a70 Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/12/12-05:42:21.792 69ba Level-0 table #10: started
+2021/12/12-05:42:21.798 69ba Level-0 table #10: 1207 bytes OK
+2021/12/12-05:42:21.809 69ba Delete type=0 #6
+2021/12/12-05:42:21.810 69ba Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at '\x00\x04\x00\x00\x05' @ 152 : 1
+2021/12/12-05:42:21.810 69ba Compacting 1@0 + 1@1 files
+2021/12/12-05:42:21.817 69ba Generated table #11@0: 23 keys, 550 bytes
+2021/12/12-05:42:21.817 69ba Compacted 1@0 + 1@1 files => 550 bytes
+2021/12/12-05:42:21.829 69ba compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/12/12-05:42:21.830 69ba Delete type=2 #10
+2021/12/12-05:42:21.830 69ba Manual compaction at level-0 from '\x00\x04\x00\x00\x05' @ 152 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)

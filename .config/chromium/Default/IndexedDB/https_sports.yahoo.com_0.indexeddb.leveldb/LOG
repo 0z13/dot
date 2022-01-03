@@ -1,0 +1,6 @@
+2021/12/05-15:04:23.309 4c9 Creating DB /home/z/.config/chromium/Default/IndexedDB/https_sports.yahoo.com_0.indexeddb.leveldb since it was missing.
+2021/12/05-15:04:23.336 4c9 Reusing MANIFEST /home/z/.config/chromium/Default/IndexedDB/https_sports.yahoo.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/05-15:45:56.957 e77 Level-0 table #5: started
+2021/12/05-15:45:56.965 e77 Level-0 table #5: 1077 bytes OK
+2021/12/05-15:45:56.976 e77 Delete type=0 #3
+2021/12/05-15:45:56.976 e77 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

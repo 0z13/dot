@@ -1,0 +1,6 @@
+2021/12/12-00:33:15.567 224e Creating DB /home/z/.config/chromium/Default/IndexedDB/https_i.oataltaul.com_0.indexeddb.leveldb since it was missing.
+2021/12/12-00:33:15.591 224e Reusing MANIFEST /home/z/.config/chromium/Default/IndexedDB/https_i.oataltaul.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/12-00:33:18.366 224e Level-0 table #5: started
+2021/12/12-00:33:18.374 224e Level-0 table #5: 1411 bytes OK
+2021/12/12-00:33:18.385 224e Delete type=0 #3
+2021/12/12-00:33:18.385 224e Manual compaction at level-0 from (begin) .. (end); will stop at (end)

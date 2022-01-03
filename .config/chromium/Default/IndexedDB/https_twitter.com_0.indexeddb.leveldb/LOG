@@ -1,0 +1,15 @@
+2022/01/02-21:53:14.728 1d3c Reusing MANIFEST /home/z/.config/chromium/Default/IndexedDB/https_twitter.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/01/02-21:53:14.729 1d3c Recovering log #55
+2022/01/02-21:53:14.729 1d3c Reusing old log /home/z/.config/chromium/Default/IndexedDB/https_twitter.com_0.indexeddb.leveldb/000055.log 
+2022/01/02-21:54:16.705 1d3c Level-0 table #60: started
+2022/01/02-21:54:16.713 1d3c Level-0 table #60: 8086 bytes OK
+2022/01/02-21:54:16.725 1d3c Delete type=0 #55
+2022/01/02-21:54:16.725 1d3c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/01/02-21:54:16.725 1d3c Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x03\x01\x0d\x001\x006\x004\x000\x007\x008\x003\x006\x006\x006\x001\x009\x001' @ 23920 : 1
+2022/01/02-21:54:16.725 1d3c Compacting 1@1 + 1@2 files
+2022/01/02-21:54:16.733 1d3c Generated table #61@1: 66 keys, 3498 bytes
+2022/01/02-21:54:16.733 1d3c Compacted 1@1 + 1@2 files => 3498 bytes
+2022/01/02-21:54:16.742 1d3c compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/01/02-21:54:16.742 1d3c Delete type=2 #57
+2022/01/02-21:54:16.742 1d3c Delete type=2 #60
+2022/01/02-21:54:16.742 1d3c Manual compaction at level-1 from '\x00\x02\x01\x03\x01\x0d\x001\x006\x004\x000\x007\x008\x003\x006\x006\x006\x001\x009\x001' @ 23920 : 1 .. (end); will stop at (end)

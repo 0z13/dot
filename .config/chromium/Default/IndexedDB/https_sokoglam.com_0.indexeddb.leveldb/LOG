@@ -1,0 +1,6 @@
+2021/12/16-22:02:10.824 1d4b Creating DB /home/z/.config/chromium/Default/IndexedDB/https_sokoglam.com_0.indexeddb.leveldb since it was missing.
+2021/12/16-22:02:10.850 1d4b Reusing MANIFEST /home/z/.config/chromium/Default/IndexedDB/https_sokoglam.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/16-22:02:23.054 1c8c Level-0 table #5: started
+2021/12/16-22:02:23.062 1c8c Level-0 table #5: 1901 bytes OK
+2021/12/16-22:02:23.073 1c8c Delete type=0 #3
+2021/12/16-22:02:23.073 1c8c Manual compaction at level-0 from (begin) .. (end); will stop at (end)

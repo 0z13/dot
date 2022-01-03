@@ -1,0 +1,6 @@
+2021/11/23-22:05:20.658 6666 Creating DB /home/z/.config/chromium/Default/IndexedDB/https_www.notion.so_0.indexeddb.leveldb since it was missing.
+2021/11/23-22:05:20.678 6666 Reusing MANIFEST /home/z/.config/chromium/Default/IndexedDB/https_www.notion.so_0.indexeddb.leveldb/MANIFEST-000001
+2021/11/23-22:05:30.976 6666 Level-0 table #5: started
+2021/11/23-22:05:30.987 6666 Level-0 table #5: 2365 bytes OK
+2021/11/23-22:05:30.998 6666 Delete type=0 #3
+2021/11/23-22:05:30.998 6666 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,7 @@
+2021/12/07-16:19:18.378 586b Reusing MANIFEST /home/z/.config/chromium/Default/IndexedDB/https_www.saxo.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/07-16:19:18.378 586b Recovering log #3
+2021/12/07-16:19:18.378 586b Reusing old log /home/z/.config/chromium/Default/IndexedDB/https_www.saxo.com_0.indexeddb.leveldb/000003.log 
+2021/12/07-16:30:19.557 5658 Level-0 table #5: started
+2021/12/07-16:30:19.565 5658 Level-0 table #5: 845 bytes OK
+2021/12/07-16:30:19.576 5658 Delete type=0 #3
+2021/12/07-16:30:19.576 5658 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

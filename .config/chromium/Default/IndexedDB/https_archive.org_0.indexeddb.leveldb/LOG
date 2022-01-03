@@ -1,0 +1,18 @@
+2021/11/14-21:16:12.359 3ede Creating DB /home/z/.config/chromium/Default/IndexedDB/https_archive.org_0.indexeddb.leveldb since it was missing.
+2021/11/14-21:16:12.383 3ede Reusing MANIFEST /home/z/.config/chromium/Default/IndexedDB/https_archive.org_0.indexeddb.leveldb/MANIFEST-000001
+2021/11/14-21:16:17.152 3ee4 Level-0 table #5: started
+2021/11/14-21:16:17.160 3ee4 Level-0 table #5: 1037 bytes OK
+2021/11/14-21:16:17.171 3ee4 Delete type=0 #3
+2021/11/14-21:16:17.171 3ee4 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/11/14-21:16:19.173 3ee4 Level-0 table #7: started
+2021/11/14-21:16:19.180 3ee4 Level-0 table #7: 256 bytes OK
+2021/11/14-21:16:19.192 3ee4 Delete type=0 #4
+2021/11/14-21:16:19.192 3ee4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/11/14-21:16:19.192 3ee4 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x002\x02\x04\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 61 : 0
+2021/11/14-21:16:19.192 3ee4 Compacting 1@1 + 1@2 files
+2021/11/14-21:16:19.202 3ee4 Generated table #8@1: 19 keys, 503 bytes
+2021/11/14-21:16:19.202 3ee4 Compacted 1@1 + 1@2 files => 503 bytes
+2021/11/14-21:16:19.213 3ee4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/11/14-21:16:19.213 3ee4 Delete type=2 #7
+2021/11/14-21:16:19.213 3ee4 Delete type=2 #5
+2021/11/14-21:16:19.213 3ee4 Manual compaction at level-1 from '\x00\x00\x00\x002\x02\x04\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 61 : 0 .. (end); will stop at (end)

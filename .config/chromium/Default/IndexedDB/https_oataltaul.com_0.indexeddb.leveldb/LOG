@@ -1,0 +1,15 @@
+2021/12/12-02:48:04.060 3582 Reusing MANIFEST /home/z/.config/chromium/Default/IndexedDB/https_oataltaul.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/12-02:48:04.060 3582 Recovering log #7
+2021/12/12-02:48:04.060 3582 Reusing old log /home/z/.config/chromium/Default/IndexedDB/https_oataltaul.com_0.indexeddb.leveldb/000007.log 
+2021/12/12-02:48:07.042 3663 Level-0 table #12: started
+2021/12/12-02:48:07.049 3663 Level-0 table #12: 1327 bytes OK
+2021/12/12-02:48:07.060 3663 Delete type=0 #7
+2021/12/12-02:48:07.060 3663 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/12/12-02:48:07.060 3663 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x0b\x00q\x00u\x00a\x00l\x00i\x00t\x00y\x00F\x00o\x00r\x00m' @ 104 : 1
+2021/12/12-02:48:07.060 3663 Compacting 1@1 + 1@2 files
+2021/12/12-02:48:07.068 3663 Generated table #13@1: 24 keys, 938 bytes
+2021/12/12-02:48:07.068 3663 Compacted 1@1 + 1@2 files => 938 bytes
+2021/12/12-02:48:07.079 3663 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/12/12-02:48:07.079 3663 Delete type=2 #9
+2021/12/12-02:48:07.079 3663 Delete type=2 #12
+2021/12/12-02:48:07.079 3663 Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x0b\x00q\x00u\x00a\x00l\x00i\x00t\x00y\x00F\x00o\x00r\x00m' @ 104 : 1 .. (end); will stop at (end)

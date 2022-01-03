@@ -1,0 +1,6 @@
+2021/11/28-23:44:27.816 4c9f Creating DB /home/z/.config/chromium/Default/IndexedDB/https_www.alt.dk_0.indexeddb.leveldb since it was missing.
+2021/11/28-23:44:27.839 4c9f Reusing MANIFEST /home/z/.config/chromium/Default/IndexedDB/https_www.alt.dk_0.indexeddb.leveldb/MANIFEST-000001
+2021/11/28-23:44:33.019 4da4 Level-0 table #5: started
+2021/11/28-23:44:33.026 4da4 Level-0 table #5: 1561 bytes OK
+2021/11/28-23:44:33.037 4da4 Delete type=0 #3
+2021/11/28-23:44:33.038 4da4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

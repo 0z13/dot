@@ -1,0 +1,6 @@
+2021/11/27-18:02:01.098 bbf Creating DB /home/z/.config/chromium/Default/IndexedDB/https_edition.cnn.com_0.indexeddb.leveldb since it was missing.
+2021/11/27-18:02:01.123 bbf Reusing MANIFEST /home/z/.config/chromium/Default/IndexedDB/https_edition.cnn.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/11/27-18:02:06.146 bbe Level-0 table #5: started
+2021/11/27-18:02:06.157 bbe Level-0 table #5: 3427 bytes OK
+2021/11/27-18:02:06.167 bbe Delete type=0 #3
+2021/11/27-18:02:06.167 bbe Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

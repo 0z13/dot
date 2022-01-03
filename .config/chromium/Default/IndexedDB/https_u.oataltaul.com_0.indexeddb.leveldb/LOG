@@ -1,0 +1,7 @@
+2021/12/12-03:30:23.062 42b2 Reusing MANIFEST /home/z/.config/chromium/Default/IndexedDB/https_u.oataltaul.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/12-03:30:23.062 42b2 Recovering log #3
+2021/12/12-03:30:23.063 42b2 Reusing old log /home/z/.config/chromium/Default/IndexedDB/https_u.oataltaul.com_0.indexeddb.leveldb/000003.log 
+2021/12/12-03:30:25.838 42b2 Level-0 table #5: started
+2021/12/12-03:30:25.846 42b2 Level-0 table #5: 1664 bytes OK
+2021/12/12-03:30:25.858 42b2 Delete type=0 #3
+2021/12/12-03:30:25.858 42b2 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

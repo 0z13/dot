@@ -1,0 +1,6 @@
+2021/12/05-22:55:22.228 3ace Creating DB /home/z/.config/chromium/Default/IndexedDB/https_5ec0751876fe39f885221f6f06dcf510.safeframe.googlesyndication.com_0.indexeddb.leveldb since it was missing.
+2021/12/05-22:55:22.248 3ace Reusing MANIFEST /home/z/.config/chromium/Default/IndexedDB/https_5ec0751876fe39f885221f6f06dcf510.safeframe.googlesyndication.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/05-22:55:25.917 3ace Level-0 table #5: started
+2021/12/05-22:55:25.924 3ace Level-0 table #5: 480 bytes OK
+2021/12/05-22:55:25.935 3ace Delete type=0 #3
+2021/12/05-22:55:25.935 3ace Manual compaction at level-0 from (begin) .. (end); will stop at (end)

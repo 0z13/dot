@@ -1,0 +1,30 @@
+{
+    "appLanguage": "en",
+    "autoHideMenubar": false,
+    "errorReporting": true,
+    "useSystemProxy": false,
+    "silent": false,
+    "trayIcon": true,
+    "startMinimized": false,
+    "useManualProxy": false,
+    "autoUpdate": true,
+    "betaUpdate": false,
+    "showSidebar": true,
+    "badgeOption": true,
+    "startAtLogin": false,
+    "enableSpellchecker": true,
+    "showNotification": true,
+    "customCSS": false,
+    "lastActiveTab": 0,
+    "dnd": false,
+    "dndPreviousSettings": {
+        "showNotification": true,
+        "silent": false
+    },
+    "downloadsPath": "/home/z/Downloads",
+    "quitOnClose": false,
+    "promptDownload": false,
+    "spellcheckerLanguages": [
+        "en-US"
+    ]
+}

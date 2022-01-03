@@ -1,0 +1,6 @@
+2021/11/25-21:54:49.747 2cd1 Creating DB /home/z/.config/chromium/Default/IndexedDB/https_www.healthline.com_0.indexeddb.leveldb since it was missing.
+2021/11/25-21:54:49.771 2cd1 Reusing MANIFEST /home/z/.config/chromium/Default/IndexedDB/https_www.healthline.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/11/25-21:55:04.954 2ebf Level-0 table #5: started
+2021/11/25-21:55:04.961 2ebf Level-0 table #5: 387 bytes OK
+2021/11/25-21:55:04.972 2ebf Delete type=0 #3
+2021/11/25-21:55:04.972 2ebf Manual compaction at level-0 from (begin) .. (end); will stop at (end)

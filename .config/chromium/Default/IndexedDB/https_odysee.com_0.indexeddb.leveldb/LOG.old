@@ -1,0 +1,7 @@
+2021/12/30-01:17:13.855 9b55 Reusing MANIFEST /home/z/.config/chromium/Default/IndexedDB/https_odysee.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/30-01:17:13.855 9b55 Recovering log #16
+2021/12/30-01:17:13.855 9b55 Reusing old log /home/z/.config/chromium/Default/IndexedDB/https_odysee.com_0.indexeddb.leveldb/000016.log 
+2021/12/30-01:17:13.919 9bf1 Level-0 table #22: started
+2021/12/30-01:17:13.926 9bf1 Level-0 table #22: 573 bytes OK
+2021/12/30-01:17:13.938 9bf1 Delete type=0 #16
+2021/12/30-01:17:13.938 9bf1 Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -1,0 +1,6 @@
+2021/12/13-10:57:42.135 423a Creating DB /home/z/.config/chromium/Default/IndexedDB/https_oddspedia.com_0.indexeddb.leveldb since it was missing.
+2021/12/13-10:57:42.159 423a Reusing MANIFEST /home/z/.config/chromium/Default/IndexedDB/https_oddspedia.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/13-11:27:05.317 44ca Level-0 table #5: started
+2021/12/13-11:27:05.325 44ca Level-0 table #5: 5475 bytes OK
+2021/12/13-11:27:05.337 44ca Delete type=0 #3
+2021/12/13-11:27:05.337 44ca Manual compaction at level-0 from (begin) .. (end); will stop at (end)

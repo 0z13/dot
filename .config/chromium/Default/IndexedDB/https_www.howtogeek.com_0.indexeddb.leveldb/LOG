@@ -1,0 +1,6 @@
+2021/11/29-20:55:07.209 1263 Creating DB /home/z/.config/chromium/Default/IndexedDB/https_www.howtogeek.com_0.indexeddb.leveldb since it was missing.
+2021/11/29-20:55:07.234 1263 Reusing MANIFEST /home/z/.config/chromium/Default/IndexedDB/https_www.howtogeek.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/11/29-20:55:10.000 12fa Level-0 table #5: started
+2021/11/29-20:55:10.007 12fa Level-0 table #5: 385 bytes OK
+2021/11/29-20:55:10.018 12fa Delete type=0 #3
+2021/11/29-20:55:10.018 12fa Manual compaction at level-0 from (begin) .. (end); will stop at (end)

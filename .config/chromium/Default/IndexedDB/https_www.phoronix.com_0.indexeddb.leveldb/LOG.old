@@ -1,0 +1,7 @@
+2021/11/26-15:12:49.379 8e22 Reusing MANIFEST /home/z/.config/chromium/Default/IndexedDB/https_www.phoronix.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/11/26-15:12:49.379 8e22 Recovering log #3
+2021/11/26-15:12:49.379 8e22 Reusing old log /home/z/.config/chromium/Default/IndexedDB/https_www.phoronix.com_0.indexeddb.leveldb/000003.log 
+2021/11/26-15:14:04.032 8e27 Level-0 table #5: started
+2021/11/26-15:14:04.037 8e27 Level-0 table #5: 363 bytes OK
+2021/11/26-15:14:04.048 8e27 Delete type=0 #3
+2021/11/26-15:14:04.048 8e27 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

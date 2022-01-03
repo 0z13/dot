@@ -1,0 +1,39 @@
+[[language]]
+name = "c"
+scope = "source.c"
+injection-regex = "c"
+file-types = ["c"]
+roots = []
+comment-token = "//"
+
+indent = { tab-width = 2, unit = "  " }
+language-server = { command = "ccls" }
+
+
+
+[[language]]
+name = "rust"
+scope = "source.rust"
+injection-regex = "rust"
+file-types = ["rs"]
+roots = []
+auto-format = true
+comment-token = "//"
+language-server = { command = "rust-analyzer" }
+indent = { tab-width = 4, unit = "    " }
+[language.config]
+cargo = { loadOutDirsFromCheck = true }
+procMacro = { enable = false }
+
+
+
+
+[[language]]
+name = "toml"
+scope = "source.toml"
+injection-regex = "toml"
+file-types = ["toml"]
+roots = []
+comment-token = "#"
+
+indent = { tab-width = 2, unit = "  " }

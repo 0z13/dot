@@ -1,0 +1,6 @@
+2021/12/27-08:20:04.660 3694 Creating DB /home/z/.config/chromium/Default/IndexedDB/https_www.cnet.com_0.indexeddb.leveldb since it was missing.
+2021/12/27-08:20:04.688 3694 Reusing MANIFEST /home/z/.config/chromium/Default/IndexedDB/https_www.cnet.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/27-14:16:35.229 43ad Level-0 table #5: started
+2021/12/27-14:16:35.238 43ad Level-0 table #5: 1579 bytes OK
+2021/12/27-14:16:35.248 43ad Delete type=0 #3
+2021/12/27-14:16:35.249 43ad Manual compaction at level-0 from (begin) .. (end); will stop at (end)

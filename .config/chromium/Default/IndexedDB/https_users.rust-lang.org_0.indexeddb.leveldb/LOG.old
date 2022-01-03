@@ -1,0 +1,15 @@
+2021/12/27-06:03:54.707 31b6 Reusing MANIFEST /home/z/.config/chromium/Default/IndexedDB/https_users.rust-lang.org_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/27-06:03:54.707 31b6 Recovering log #11
+2021/12/27-06:03:54.707 31b6 Reusing old log /home/z/.config/chromium/Default/IndexedDB/https_users.rust-lang.org_0.indexeddb.leveldb/000011.log 
+2021/12/27-06:04:27.811 31b6 Level-0 table #16: started
+2021/12/27-06:04:27.819 31b6 Level-0 table #16: 4769 bytes OK
+2021/12/27-06:04:27.830 31b6 Delete type=0 #11
+2021/12/27-06:04:27.830 31b6 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/12/27-06:04:27.831 31b6 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01 \x03\x00\xb0\x17a\xa4\xdfwB\x00\x01<\x00d\x00i\x00s\x00c\x00o\x00u\x00r\x00s\x00e\x00-\x001\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00u\x00s\x00e\x00r\x00s\x00.\x00r\x00u\x00s\x00t\x00-\x00l\x00a\x00n\x00g\x00.\x00o\x00r\x00g\x00/\x00m\x00a\x00n\x00i\x00f\x00e\x00s\x00t\x00.\x00w\x00e\x00b\x00m\x00a\x00n\x00i\x00f\x00e\x00s\x00t' @ 710 : 1
+2021/12/27-06:04:27.831 31b6 Compacting 1@1 + 1@2 files
+2021/12/27-06:04:27.838 31b6 Generated table #17@1: 47 keys, 2621 bytes
+2021/12/27-06:04:27.838 31b6 Compacted 1@1 + 1@2 files => 2621 bytes
+2021/12/27-06:04:27.849 31b6 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/12/27-06:04:27.849 31b6 Delete type=2 #16
+2021/12/27-06:04:27.849 31b6 Delete type=2 #13
+2021/12/27-06:04:27.849 31b6 Manual compaction at level-1 from '\x00\x01\x01 \x03\x00\xb0\x17a\xa4\xdfwB\x00\x01<\x00d\x00i\x00s\x00c\x00o\x00u\x00r\x00s\x00e\x00-\x001\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00u\x00s\x00e\x00r\x00s\x00.\x00r\x00u\x00s\x00t\x00-\x00l\x00a\x00n\x00g\x00.\x00o\x00r\x00g\x00/\x00m\x00a\x00n\x00i\x00f\x00e\x00s\x00t\x00.\x00w\x00e\x00b\x00m\x00a\x00n\x00i\x00f\x00e\x00s\x00t' @ 710 : 1 .. (end); will stop at (end)

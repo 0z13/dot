@@ -1,0 +1,6 @@
+2021/12/17-21:00:39.887 199d Creating DB /home/z/.config/chromium/Default/IndexedDB/https_feafights.tv_0.indexeddb.leveldb since it was missing.
+2021/12/17-21:00:39.912 199d Reusing MANIFEST /home/z/.config/chromium/Default/IndexedDB/https_feafights.tv_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/17-21:01:44.947 199d Level-0 table #5: started
+2021/12/17-21:01:44.954 199d Level-0 table #5: 6078 bytes OK
+2021/12/17-21:01:44.965 199d Delete type=0 #3
+2021/12/17-21:01:44.965 199d Manual compaction at level-0 from (begin) .. (end); will stop at (end)

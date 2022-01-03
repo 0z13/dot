@@ -1,0 +1,15 @@
+2021/11/28-22:46:26.002 435f Reusing MANIFEST /home/z/.config/chromium/Default/IndexedDB/https_www.healthline.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/11/28-22:46:26.002 435f Recovering log #4
+2021/11/28-22:46:26.002 435f Reusing old log /home/z/.config/chromium/Default/IndexedDB/https_www.healthline.com_0.indexeddb.leveldb/000004.log 
+2021/11/28-22:47:19.247 4051 Level-0 table #8: started
+2021/11/28-22:47:19.255 4051 Level-0 table #8: 209 bytes OK
+2021/11/28-22:47:19.266 4051 Delete type=0 #4
+2021/11/28-22:47:19.266 4051 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/11/28-22:47:19.266 4051 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x06' @ 12 : 1
+2021/11/28-22:47:19.266 4051 Compacting 1@1 + 1@2 files
+2021/11/28-22:47:19.274 4051 Generated table #9@1: 9 keys, 375 bytes
+2021/11/28-22:47:19.274 4051 Compacted 1@1 + 1@2 files => 375 bytes
+2021/11/28-22:47:19.286 4051 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/11/28-22:47:19.286 4051 Delete type=2 #8
+2021/11/28-22:47:19.286 4051 Delete type=2 #5
+2021/11/28-22:47:19.286 4051 Manual compaction at level-1 from '\x00\x00\x00\x00\x06' @ 12 : 1 .. (end); will stop at (end)

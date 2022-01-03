@@ -1,0 +1,78 @@
+{
+  "main_window_geometry": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywADAAAAABCrAAAAEgAAE/8AAAWMAAAQrQAAABIAABP9AAAFigAAAAEAAAAACgAAABCtAAAAEgAAE/0AAAWK"
+  },
+  "main_window_state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAAAAAAAAAPwCAAAAAvsAAAAQAHQAbwBjAC0AZABvAGMAawAAAAAA/////wAAAIgA////+wAAABYAcwBlAGEAcgBjAGgALQBkAG8AYwBrAAAAAAD/////AAAAlwD///8AAAABAAAAAAAAAAD8AgAAAAT7AAAAFgBsAG8AbwBrAHUAcAAtAGQAbwBjAGsAAAAAAP////8AAACAAP////sAAAAcAGIAbwBvAGsAbQBhAHIAawBzAC0AZABvAGMAawAAAAAA/////wAAAOwA////+wAAABwAaQBuAHMAcABlAGMAdABvAHIALQBkAG8AYwBrAAAAAAD/////AAAAEwD////7AAAAHgBoAGkAZwBoAGwAaQBnAGgAdABzAC0AZABvAGMAawAAAAAA/////wAAAM0A////AAADUQAABXkAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAAAAAAAAQAAAB4AYQBjAHQAaQBvAG4AcwBfAHQAbwBvAGwAYgBhAHICAAAAAP////8AAAAAAAAAAA=="
+  },
+  "old_prefs_migrated": true,
+  "saved-search-settings": {
+    "heart": {
+      "case_sensitive": false,
+      "mode": "normal"
+    }
+  },
+  "session_data": {
+    "base_font_size": 26,
+    "controls_help_shown_count": 2,
+    "standalone_font_settings": {},
+    "standalone_misc_settings": {
+      "remember_last_read": true,
+      "remember_window_geometry": false,
+      "save_annotations_in_ebook": true,
+      "singleinstance": false
+    },
+    "standalone_recently_opened": [
+      {
+        "authors": [
+          "David Spiegelhalter"
+        ],
+        "key": "/home/z/Calibre Library/David Spiegelhalter/The Art of Statistics_ Learning From Data (Pelican Books) (6)/The Art of Statistics_ Learning From Data - David Spiegelhalter.epub",
+        "pathtoebook": "/home/z/Calibre Library/David Spiegelhalter/The Art of Statistics_ Learning From Data (Pelican Books) (6)/The Art of Statistics_ Learning From Data - David Spiegelhalter.epub",
+        "timestamp": "2021-12-24T09:41:42.298Z",
+        "title": "The Art of Statistics: Learning From Data (Pelican Books)"
+      },
+      {
+        "authors": [
+          "Herbert Wolverson"
+        ],
+        "key": "/home/z/Calibre Library/Herbert Wolverson/Rust Brain Teasers (5)/Rust Brain Teasers - Herbert Wolverson.epub",
+        "pathtoebook": "/home/z/Calibre Library/Herbert Wolverson/Rust Brain Teasers (5)/Rust Brain Teasers - Herbert Wolverson.epub",
+        "timestamp": "2021-12-16T12:29:47.533Z",
+        "title": "Rust Brain Teasers"
+      },
+      {
+        "authors": [
+          "Randall Hyde"
+        ],
+        "key": "/home/z/Calibre Library/Randall Hyde/The Art of 64-Bit Assembly, Volume 1 (4)/The Art of 64-Bit Assembly, Volume 1 - Randall Hyde.epub",
+        "pathtoebook": "/home/z/Calibre Library/Randall Hyde/The Art of 64-Bit Assembly, Volume 1 (4)/The Art of 64-Bit Assembly, Volume 1 - Randall Hyde.epub",
+        "timestamp": "2021-12-07T15:26:06.542Z",
+        "title": "The Art of 64-Bit Assembly, Volume 1"
+      },
+      {
+        "authors": [
+          "Robert Love"
+        ],
+        "key": "/home/z/Calibre Library/Robert Love/Linux Kernel Development (2)/Linux Kernel Development - Robert Love.epub",
+        "pathtoebook": "/home/z/Calibre Library/Robert Love/Linux Kernel Development (2)/Linux Kernel Development - Robert Love.epub",
+        "timestamp": "2021-12-06T17:08:11.678Z",
+        "title": "Linux Kernel Development"
+      },
+      {
+        "authors": [
+          "Retrocomputing",
+          "Clash  Haskell for FPGA Hardware Design-Leanpub (2021)"
+        ],
+        "key": "/home/z/Downloads/Gergő Érdi - Retrocomputing with Clash_ Haskell for FPGA Hardware Design-Leanpub (2021).pdf",
+        "pathtoebook": "/home/z/Downloads/Gergő Érdi - Retrocomputing with Clash_ Haskell for FPGA Hardware Design-Leanpub (2021).pdf",
+        "timestamp": "2021-12-06T17:07:00.584Z",
+        "title": "Gergő Érdi"
+      }
+    ]
+  },
+  "viewer-search-case-sensitive": false,
+  "viewer-search-mode": "normal"
+}

@@ -1,0 +1,6 @@
+2021/12/22-17:22:10.496 2e81 Creating DB /home/z/.config/chromium/Default/IndexedDB/https_www.stromerbike.com_0.indexeddb.leveldb since it was missing.
+2021/12/22-17:22:10.525 2e81 Reusing MANIFEST /home/z/.config/chromium/Default/IndexedDB/https_www.stromerbike.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/22-17:22:31.516 2dda Level-0 table #5: started
+2021/12/22-17:22:31.524 2dda Level-0 table #5: 25696 bytes OK
+2021/12/22-17:22:31.536 2dda Delete type=0 #3
+2021/12/22-17:22:31.536 2dda Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,9 @@
+{
+    "domains": [
+        {
+            "icon": "/home/z/.config/Zulip/server-icons/3203548916.png",
+            "url": "https://rust-lang.zulipchat.com",
+            "alias": "rust-lang"
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+2021/12/30-15:41:38.107 a7e Reusing MANIFEST /home/z/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/30-15:41:38.107 a7e Recovering log #97
+2021/12/30-15:41:38.109 a7e Reusing old log /home/z/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000097.log 
+2021/12/30-15:41:43.098 c0b Compacting 1@1 + 1@2 files
+2021/12/30-15:41:43.123 c0b Generated table #100@1: 167 keys, 260347 bytes
+2021/12/30-15:41:43.123 c0b Compacted 1@1 + 1@2 files => 260347 bytes
+2021/12/30-15:41:43.134 c0b compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/12/30-15:41:43.134 c0b Delete type=2 #98
+2021/12/30-15:41:43.135 c0b Delete type=2 #96

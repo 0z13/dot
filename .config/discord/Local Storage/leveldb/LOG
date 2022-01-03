@@ -1,0 +1,6 @@
+2022/01/02-18:56:47.012 115c Reusing MANIFEST /home/z/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2022/01/02-18:56:47.013 115c Recovering log #34
+2022/01/02-18:56:47.013 115c Reusing old log /home/z/.config/discord/Local Storage/leveldb/000034.log 
+2022/01/02-18:57:47.892 1252 Level-0 table #38: started
+2022/01/02-18:57:47.904 1252 Level-0 table #38: 139618 bytes OK
+2022/01/02-18:57:47.916 1252 Delete type=0 #34

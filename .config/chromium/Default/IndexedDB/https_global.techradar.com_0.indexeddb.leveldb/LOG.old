@@ -1,0 +1,6 @@
+2021/12/27-08:20:14.173 3695 Reusing MANIFEST /home/z/.config/chromium/Default/IndexedDB/https_global.techradar.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/27-08:20:14.174 3695 Recovering log #6
+2021/12/27-08:20:14.174 3695 Reusing old log /home/z/.config/chromium/Default/IndexedDB/https_global.techradar.com_0.indexeddb.leveldb/000006.log 
+2021/12/27-08:20:31.324 37ed Level-0 table #11: started
+2021/12/27-08:20:31.352 37ed Level-0 table #11: 4269117 bytes OK
+2021/12/27-08:20:31.364 37ed Delete type=0 #6

@@ -1,0 +1,6 @@
+2021/12/29-13:16:08.439 5efc Creating DB /home/z/.config/chromium/Default/IndexedDB/https_twitter-com.translate.goog_0.indexeddb.leveldb since it was missing.
+2021/12/29-13:16:08.463 5efc Reusing MANIFEST /home/z/.config/chromium/Default/IndexedDB/https_twitter-com.translate.goog_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/29-14:01:49.861 637a Level-0 table #5: started
+2021/12/29-14:01:49.871 637a Level-0 table #5: 888 bytes OK
+2021/12/29-14:01:49.880 637a Delete type=0 #3
+2021/12/29-14:01:49.880 637a Manual compaction at level-0 from (begin) .. (end); will stop at (end)

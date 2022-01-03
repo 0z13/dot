@@ -1,0 +1,15 @@
+2021/12/12-05:04:26.090 5d90 Reusing MANIFEST /home/z/.config/chromium/Default/IndexedDB/https_b.oataltaul.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/12-05:04:26.090 5d90 Recovering log #4
+2021/12/12-05:04:26.090 5d90 Reusing old log /home/z/.config/chromium/Default/IndexedDB/https_b.oataltaul.com_0.indexeddb.leveldb/000004.log 
+2021/12/12-05:04:28.564 5da6 Level-0 table #8: started
+2021/12/12-05:04:28.572 5da6 Level-0 table #8: 1001 bytes OK
+2021/12/12-05:04:28.583 5da6 Delete type=0 #4
+2021/12/12-05:04:28.584 5da6 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/12/12-05:04:28.584 5da6 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x00\x00\x05' @ 84 : 1
+2021/12/12-05:04:28.584 5da6 Compacting 1@1 + 1@2 files
+2021/12/12-05:04:28.591 5da6 Generated table #9@1: 23 keys, 939 bytes
+2021/12/12-05:04:28.591 5da6 Compacted 1@1 + 1@2 files => 939 bytes
+2021/12/12-05:04:28.602 5da6 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/12/12-05:04:28.602 5da6 Delete type=2 #8
+2021/12/12-05:04:28.602 5da6 Delete type=2 #5
+2021/12/12-05:04:28.602 5da6 Manual compaction at level-1 from '\x00\x02\x00\x00\x05' @ 84 : 1 .. (end); will stop at (end)

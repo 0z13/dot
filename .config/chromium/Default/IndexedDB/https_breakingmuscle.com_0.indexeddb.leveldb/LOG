@@ -1,0 +1,6 @@
+2022/01/03-00:25:37.205 2830 Creating DB /home/z/.config/chromium/Default/IndexedDB/https_breakingmuscle.com_0.indexeddb.leveldb since it was missing.
+2022/01/03-00:25:37.229 2830 Reusing MANIFEST /home/z/.config/chromium/Default/IndexedDB/https_breakingmuscle.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/01/03-00:28:50.518 29f1 Level-0 table #5: started
+2022/01/03-00:28:50.526 29f1 Level-0 table #5: 6213 bytes OK
+2022/01/03-00:28:50.537 29f1 Delete type=0 #3
+2022/01/03-00:28:50.537 29f1 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

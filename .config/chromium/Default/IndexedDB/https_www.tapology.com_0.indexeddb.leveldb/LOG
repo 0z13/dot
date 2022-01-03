@@ -1,0 +1,15 @@
+2021/12/21-22:02:29.758 2048 Reusing MANIFEST /home/z/.config/chromium/Default/IndexedDB/https_www.tapology.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/21-22:02:29.758 2048 Recovering log #7
+2021/12/21-22:02:29.759 2048 Reusing old log /home/z/.config/chromium/Default/IndexedDB/https_www.tapology.com_0.indexeddb.leveldb/000007.log 
+2021/12/21-22:02:35.797 21a6 Level-0 table #12: started
+2021/12/21-22:02:35.805 21a6 Level-0 table #12: 209 bytes OK
+2021/12/21-22:02:35.818 21a6 Delete type=0 #7
+2021/12/21-22:02:35.818 21a6 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/12/21-22:02:35.818 21a6 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x06' @ 14 : 1
+2021/12/21-22:02:35.818 21a6 Compacting 1@1 + 1@2 files
+2021/12/21-22:02:35.827 21a6 Generated table #13@1: 9 keys, 371 bytes
+2021/12/21-22:02:35.827 21a6 Compacted 1@1 + 1@2 files => 371 bytes
+2021/12/21-22:02:35.839 21a6 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/12/21-22:02:35.839 21a6 Delete type=2 #9
+2021/12/21-22:02:35.839 21a6 Delete type=2 #12
+2021/12/21-22:02:35.839 21a6 Manual compaction at level-1 from '\x00\x00\x00\x00\x06' @ 14 : 1 .. (end); will stop at (end)

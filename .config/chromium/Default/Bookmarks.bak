@@ -1,0 +1,507 @@
+{
+   "checksum": "cd70c880406cf2ee1930024f8f6100ba",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13281298173722674",
+            "guid": "3d799d6e-6ece-4063-8e67-0cdccb048f51",
+            "id": "5",
+            "name": "GitHub - helix-editor/helix: A post-modern modal text editor.",
+            "type": "url",
+            "url": "https://github.com/helix-editor/helix"
+         }, {
+            "children": [ {
+               "date_added": "13285102518877951",
+               "guid": "76067e96-2812-409a-b325-8e5ccb729662",
+               "id": "102",
+               "name": "You Can't Write C in Just Any Ol' Language - Cliffle",
+               "type": "url",
+               "url": "http://cliffle.com/p/dangerust/1/"
+            }, {
+               "date_added": "13285102593944988",
+               "guid": "1d417a5b-ed7e-4f97-84a7-270004fe2068",
+               "id": "103",
+               "name": "nrc/r4cppp: Rust for C++ programmers",
+               "type": "url",
+               "url": "https://github.com/nrc/r4cppp"
+            }, {
+               "date_added": "13285102510845593",
+               "guid": "fd93d792-f98d-47f9-adb3-807840fc0d06",
+               "id": "101",
+               "name": "Making our own executable packer",
+               "type": "url",
+               "url": "https://fasterthanli.me/series/making-our-own-executable-packer"
+            } ],
+            "date_added": "13285102434773392",
+            "date_modified": "13285102593944988",
+            "guid": "69053b6a-05ed-4959-83ce-ceea46d6de19",
+            "id": "100",
+            "name": "rust--reading",
+            "type": "folder"
+         }, {
+            "date_added": "13283912809736214",
+            "guid": "948191cc-b6b8-4139-b746-ea5ad8348cab",
+            "id": "82",
+            "name": "webassembly: the new kubernetes? -- wingolog",
+            "type": "url",
+            "url": "https://wingolog.org/archives/2021/12/13/webassembly-the-new-kubernetes"
+         }, {
+            "date_added": "13285111562290509",
+            "guid": "cbd764d2-b814-4eb4-8f97-edde609f6cdf",
+            "id": "104",
+            "name": "Oligarchy in America - The Spectator World",
+            "type": "url",
+            "url": "https://spectatorworld.com/topic/oligarchy-america-rome-athens-jeff-bezos/"
+         }, {
+            "date_added": "13285101964408335",
+            "guid": "f85bd3a2-329f-4810-aad4-392943b00a3a",
+            "id": "99",
+            "name": "Newest 'rust' Questions - Stack Overflow",
+            "type": "url",
+            "url": "https://stackoverflow.com/questions/tagged/rust"
+         }, {
+            "date_added": "13285029792926751",
+            "guid": "efbd7eb1-f337-41c0-a00c-d4e8617cd879",
+            "id": "97",
+            "name": "Jon Ringer - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/user/elitespartan117j27/videos"
+         }, {
+            "date_added": "13285028999382999",
+            "guid": "7271fbe3-a4a2-4ba7-815b-7c4f0c777faa",
+            "id": "96",
+            "name": "Oregon Programming Languages Summer School | University of Oregon",
+            "type": "url",
+            "url": "https://www.cs.uoregon.edu/research/summerschool/summer16/curriculum.php"
+         }, {
+            "date_added": "13285028838439762",
+            "guid": "707250e9-ca18-4432-b5d2-0876a7e10ada",
+            "id": "95",
+            "name": "Oregon Programming Languages Summer School | University of Oregon",
+            "type": "url",
+            "url": "https://www.cs.uoregon.edu/research/summerschool/summer16/curriculum.php"
+         }, {
+            "date_added": "13284601623860922",
+            "guid": "e5d2af7f-c03b-4717-b9ae-f8bf20d1e65b",
+            "id": "92",
+            "name": "An introduction to Kubernetes.",
+            "type": "url",
+            "url": "https://www.jeremyjordan.me/kubernetes/"
+         }, {
+            "date_added": "13284608407488384",
+            "guid": "db9ca14f-dc72-4db7-b259-ce4321802c7a",
+            "id": "93",
+            "name": "RadRover 6 Plus",
+            "type": "url",
+            "url": "https://www.radpowerbikes.com/products/radrover-plus-electric-fat-tire-bike"
+         }, {
+            "date_added": "13283913810176019",
+            "guid": "1f18cacc-c963-412a-b270-3a07196417f1",
+            "id": "83",
+            "name": "The Shock of History: Religion, Memory, Identity: Venner, Dominique, Gottfried, Paul: 9781910524442: Amazon.com: Books",
+            "type": "url",
+            "url": "https://www.amazon.com/Shock-History-Religion-Memory-Identity/dp/1910524441/ref=pd_sbs_1/143-7796703-4387111?pd_rd_w=TIUyW&pf_rd_p=3676f086-9496-4fd7-8490-77cf7f43f846&pf_rd_r=62YGGQ4NJ8HNTP453EME&pd_rd_r=f4ac159d-2676-41bb-94c0-0cdd79fa3cf6&pd_rd_wg=N2W2s&pd_rd_i=1910524441&psc=1"
+         }, {
+            "date_added": "13283477429419679",
+            "guid": "d6ac0ec6-802a-49df-a620-efe29bd5cda6",
+            "id": "73",
+            "name": "Introduction - The Little Book of Rust Macros",
+            "type": "url",
+            "url": "https://veykril.github.io/tlborm/"
+         }, {
+            "children": [ {
+               "date_added": "13284154486209817",
+               "guid": "352c65fb-bf7d-4ad8-a551-da58658f3a5d",
+               "id": "88",
+               "name": "Chapter 8: Network Security — Computer Networks: A Systems Approach Version 6.2-dev documentation",
+               "type": "url",
+               "url": "https://book.systemsapproach.org/security.html"
+            }, {
+               "date_added": "13284154528107882",
+               "guid": "27dd84c8-3af7-4de1-96ac-793528c0c031",
+               "id": "89",
+               "name": "An Introduction to Computer Networks — An Introduction to Computer Networks, desktop edition 2.0.6",
+               "type": "url",
+               "url": "http://intronetworks.cs.luc.edu/current2/html/"
+            }, {
+               "date_added": "13284157153351793",
+               "guid": "d9ee96e2-26b9-4b12-b6b3-ba33e1736bb0",
+               "id": "90",
+               "name": "de`",
+               "type": "url",
+               "url": "https://en.wikipedia.org/wiki/Louis-Ferdinand_C%C3%A9line#Exile_in_Denmark_(1945%E2%80%931951)"
+            } ],
+            "date_added": "13284154472402849",
+            "date_modified": "13284157153351793",
+            "guid": "bb74252b-81aa-43af-8a50-1d524af53fa6",
+            "id": "87",
+            "name": "networking",
+            "type": "folder"
+         }, {
+            "date_added": "13283975979281353",
+            "guid": "d8258f25-7e4d-4062-af5d-c18541e48018",
+            "id": "85",
+            "name": "Scraping Gambling Websites (and crypto markets) for Fun and Profit | DaaS.sh",
+            "type": "url",
+            "url": "https://daas.sh/research/How-Data-Collection-Leads-to-Arbitrage-Web-Scraping-For-Fun-And-Profit"
+         }, {
+            "date_added": "13283874274049182",
+            "guid": "4165ce28-4c18-4f12-9ec2-b1b086c109f1",
+            "id": "80",
+            "name": "Michael Maclean",
+            "type": "url",
+            "url": "https://mgdm.net/weblog/"
+         }, {
+            "date_added": "13283872784448348",
+            "guid": "f06dd7ec-db7b-4d30-a48f-47125ed59677",
+            "id": "79",
+            "name": "kube-rs/kube-rs: Rust Kubernetes client and controller runtime",
+            "type": "url",
+            "url": "https://github.com/kube-rs/kube-rs"
+         }, {
+            "date_added": "13283868910497009",
+            "guid": "6a6fcb41-967a-4a01-8444-f1bf303ff34f",
+            "id": "78",
+            "name": "How debuggers work: Part 2 - Breakpoints - Eli Bendersky's website",
+            "type": "url",
+            "url": "https://eli.thegreenplace.net/2011/01/27/how-debuggers-work-part-2-breakpoints"
+         }, {
+            "date_added": "13283748471381594",
+            "guid": "4e90df59-21b7-4d16-969c-69b4b82193ea",
+            "id": "76",
+            "name": "CPU Exceptions | Writing an OS in Rust",
+            "type": "url",
+            "url": "https://os.phil-opp.com/cpu-exceptions/"
+         }, {
+            "date_added": "13283479686476868",
+            "guid": "880c6e67-1bbe-4053-bb32-7d8cbc34a88d",
+            "id": "74",
+            "name": "EECS-2016-1.pdf",
+            "type": "url",
+            "url": "https://people.eecs.berkeley.edu/~krste/papers/EECS-2016-1.pdf"
+         }, {
+            "date_added": "13283351604034096",
+            "guid": "706afc5f-fc03-4f20-8cb9-74cba046c9b6",
+            "id": "62",
+            "name": "What's new in CPUs since the 80s?",
+            "type": "url",
+            "url": "https://danluu.com/new-cpu-features/"
+         }, {
+            "date_added": "13283365954047030",
+            "guid": "dd59cbb6-aa49-484d-bccd-6442edc57095",
+            "id": "68",
+            "name": "Memory Management Unit: RISCV OS in Rust",
+            "type": "url",
+            "url": "https://osblog.stephenmarz.com/ch3.2.html"
+         }, {
+            "date_added": "13283363753939415",
+            "guid": "b0e6697a-012b-411a-accd-0b17c5be3383",
+            "id": "67",
+            "name": "nrc/r4cppp: Rust for C++ programmers",
+            "type": "url",
+            "url": "https://github.com/nrc/r4cppp"
+         }, {
+            "date_added": "13283356512813698",
+            "guid": "a9c5fbae-d8bb-42f0-beb4-a3b51c1f4b33",
+            "id": "66",
+            "name": "Application binary interface - Wikipedia",
+            "type": "url",
+            "url": "https://en.wikipedia.org/wiki/Application_binary_interface"
+         }, {
+            "date_added": "13283356500826294",
+            "guid": "1fd87d16-d82c-4f8d-a925-82b9092c54e0",
+            "id": "65",
+            "name": "Calling convention - Wikipedia",
+            "type": "url",
+            "url": "https://en.wikipedia.org/wiki/Calling_convention"
+         }, {
+            "date_added": "13282406905711171",
+            "guid": "589904d4-1ac3-4eea-926c-0bfd981e6bcf",
+            "id": "36",
+            "name": "Bell Labs and CSP Threads",
+            "type": "url",
+            "url": "https://swtch.com/~rsc/thread/"
+         }, {
+            "children": [ {
+               "date_added": "13282680457372520",
+               "guid": "e31ad6eb-d57d-48bd-8e4d-53bee86f8c90",
+               "id": "44",
+               "name": "Virtual Memory Tricks · Our Machinery",
+               "type": "url",
+               "url": "https://ourmachinery.com/post/virtual-memory-tricks/"
+            }, {
+               "date_added": "13282680454044465",
+               "guid": "ea1373db-042e-4901-b60b-e5c7e72d41ba",
+               "id": "43",
+               "name": "Handles are the better pointers",
+               "type": "url",
+               "url": "https://floooh.github.io/2018/06/17/handles-vs-pointers.html"
+            }, {
+               "date_added": "13282846411579194",
+               "guid": "f2ffa228-0256-452c-94d7-cd3a20f25910",
+               "id": "46",
+               "name": "autodiff",
+               "type": "url",
+               "url": "https://dlsys.cs.washington.edu/pdf/lecture4.pdf"
+            }, {
+               "date_added": "13282846477410200",
+               "guid": "69731d9c-09e5-4a00-9b52-d7fde6043b22",
+               "id": "47",
+               "name": "Enzyme AD",
+               "type": "url",
+               "url": "https://enzyme.mit.edu/"
+            }, {
+               "date_added": "13282961817888585",
+               "guid": "73b94688-ae83-4d62-a219-8428da7cfcab",
+               "id": "49",
+               "name": "What Memory Model Should the Rust Language Use? : rust",
+               "type": "url",
+               "url": "https://www.reddit.com/r/rust/comments/qmi0s5/what_memory_model_should_the_rust_language_use/"
+            }, {
+               "date_added": "13282961986432496",
+               "guid": "be2883e3-f188-4eec-a563-d4cb3f05cc40",
+               "id": "50",
+               "name": "C++ and Beyond 2012: Herb Sutter - atomic Weapons 1 of 2 - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=A8eCGOqgvH4"
+            }, {
+               "date_added": "13283040261950432",
+               "guid": "199a3fe2-70c9-433b-8f10-ed3898890916",
+               "id": "52",
+               "name": "Down memory lane: Two decades with the slab allocator -- Bryan Cantrill - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=IznEq2Uf2xk"
+            }, {
+               "date_added": "13283052392538950",
+               "guid": "0c64075f-eff4-495b-97c7-4d6490abb5dc",
+               "id": "53",
+               "name": "dtolnay/proc-macro-workshop: Learn to write Rust procedural macros  [Rust Latam conference, Montevideo Uruguay, March 2019]",
+               "type": "url",
+               "url": "https://github.com/dtolnay/proc-macro-workshop"
+            }, {
+               "date_added": "13283055661240191",
+               "guid": "587b3a0f-7704-4cea-b7fc-d2edc77f0f05",
+               "id": "54",
+               "name": "Let's check out Oxide's Hubris on an F3 discovery - Twitch",
+               "type": "url",
+               "url": "https://www.twitch.tv/videos/1220717732"
+            }, {
+               "date_added": "13283061198485657",
+               "guid": "1db2a8d6-f8ac-46f2-8a9f-f9b68ebe4622",
+               "id": "55",
+               "name": "Linux Heap Exploitation - Part 1 | Udemy",
+               "type": "url",
+               "url": "https://www.udemy.com/course/linux-heap-exploitation-part-1/#instructor-1"
+            }, {
+               "date_added": "13283094075515371",
+               "guid": "6f3be60c-25f4-4062-8bdc-4d1c72090adb",
+               "id": "56",
+               "name": "Fast CSV processing with SIMD",
+               "type": "url",
+               "url": "https://nullprogram.com/blog/2021/12/04/"
+            }, {
+               "date_added": "13283222440265081",
+               "guid": "ff0875c8-6884-4a1c-aa02-68080bf31a64",
+               "id": "58",
+               "name": "Optimizing Rust - Rust Oslo 2021-11-11 - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=LQ2nIhj45vE"
+            }, {
+               "date_added": "13283224362002724",
+               "guid": "656d7579-cc95-485b-94ba-07fc37f31d35",
+               "id": "59",
+               "name": "Post Hype Microservices with Bryan Cantrill - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=1NHbPN9pNPM"
+            }, {
+               "date_added": "13283229123059068",
+               "guid": "0f0e310c-c4d1-4392-b8aa-83e2235623ad",
+               "id": "60",
+               "name": "Compiled Thoughts",
+               "type": "url",
+               "url": "https://benkay86.github.io/"
+            } ],
+            "date_added": "13282680445061942",
+            "date_modified": "13283229123059068",
+            "guid": "00202424-d7fa-463a-95d5-4589f9fc08a9",
+            "id": "42",
+            "name": "reading",
+            "type": "folder"
+         }, {
+            "date_added": "13282611727295090",
+            "guid": "9f4d7882-7a62-4602-a4f8-ad35699e6b3e",
+            "id": "40",
+            "name": "Supplements Everyone Should Take – Hormetheus",
+            "type": "url",
+            "url": "https://www.hormetheus.com/supplements-2/"
+         }, {
+            "date_added": "13282397491832280",
+            "guid": "2c5199dd-b1ef-43ff-ac49-4d99b4a4c738",
+            "id": "35",
+            "name": "cdecl: C gibberish ↔ English",
+            "type": "url",
+            "url": "https://cdecl.org/"
+         }, {
+            "date_added": "13281306434258073",
+            "guid": "79e6c945-fe3a-437d-be6a-cb367b9f8bb0",
+            "id": "7",
+            "name": "https://redditz.mmastreamlinks.com/",
+            "type": "url",
+            "url": "https://redditz.mmastreamlinks.com/"
+         }, {
+            "children": [ {
+               "date_added": "13281573656259501",
+               "guid": "ee9b33b3-4b2f-429b-be6c-1ef04474abc3",
+               "id": "10",
+               "name": "A Guide to Kattis Problems | A Guide to Kattis",
+               "type": "url",
+               "url": "https://mwermelinger.github.io/kattis-guide/"
+            }, {
+               "date_added": "13282197289823986",
+               "guid": "8e701474-660f-467d-962a-62a13ce9eda3",
+               "id": "22",
+               "name": "6.S081 / Fall 2020",
+               "type": "url",
+               "url": "https://pdos.csail.mit.edu/6.S081/2020/schedule.html"
+            }, {
+               "date_added": "13282191099176197",
+               "guid": "c3012432-4fbd-4407-a90a-aac2436de0ce",
+               "id": "20",
+               "name": "Rust Brain Teasers: Exercise Your Mind by Herbert Wolverson",
+               "type": "url",
+               "url": "https://pragprog.com/titles/hwrustbrain/rust-brain-teasers/"
+            } ],
+            "date_added": "13281559575461880",
+            "date_modified": "13282197289823986",
+            "guid": "61733edf-ff06-452b-9f73-49cf36a640c6",
+            "id": "9",
+            "name": "Doing",
+            "type": "folder"
+         }, {
+            "date_added": "13281581295113317",
+            "guid": "a5468844-9739-41d3-a6fe-aa1ae9344fa5",
+            "id": "12",
+            "name": "Justin Restivo - An Honest Review of NixOS",
+            "type": "url",
+            "url": "https://justin.restivo.me/posts/2020-04-26-nixos.html"
+         }, {
+            "date_added": "13282426909986205",
+            "guid": "e259046f-6ea8-403e-8d7d-b7cbb0dd3971",
+            "id": "37",
+            "name": "Down to the TLP: How PCI express devices talk (Part I) | xillybus.com",
+            "type": "url",
+            "url": "http://xillybus.com/tutorials/pci-express-tlp-pcie-primer-tutorial-guide-1"
+         }, {
+            "date_added": "13282426918396405",
+            "guid": "31f7bb51-069f-4283-8f9e-3448420af545",
+            "id": "38",
+            "name": "Down to the TLP: How PCI express devices talk (Part II) | xillybus.com",
+            "type": "url",
+            "url": "http://xillybus.com/tutorials/pci-express-tlp-pcie-primer-tutorial-guide-2"
+         }, {
+            "date_added": "13282185706053630",
+            "guid": "a4f560ce-5f35-49f9-a650-ab5df698a54f",
+            "id": "19",
+            "name": "Parallelisation in the Linux Kernel - Handmade Seattle 2020 - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=r8SYpRY9viA"
+         }, {
+            "date_added": "13282310764266625",
+            "guid": "fa343c0c-8da5-4d2a-b59a-aff23837cb47",
+            "id": "24",
+            "name": "OverTheWire: Vortex",
+            "type": "url",
+            "url": "https://overthewire.org/wargames/vortex/"
+         }, {
+            "date_added": "13282318819651039",
+            "guid": "1c58f207-f2b8-4d75-84a2-54e501c3716c",
+            "id": "26",
+            "name": "picoCTF - CMU Cybersecurity Competition",
+            "type": "url",
+            "url": "https://picoctf.org/"
+         }, {
+            "children": [ {
+               "date_added": "13282324862531455",
+               "guid": "b21805fe-6877-4ec1-bc6d-0f0812708c0f",
+               "id": "29",
+               "name": "QBE - Compiler Backend",
+               "type": "url",
+               "url": "https://c9x.me/compile/"
+            }, {
+               "date_added": "13282328394663130",
+               "guid": "23f5c279-75d7-4c84-83f3-e08073098732",
+               "id": "31",
+               "name": "How an Optimizing Compiler Works",
+               "type": "url",
+               "url": "https://www.lihaoyi.com/post/HowanOptimizingCompilerWorks.html"
+            }, {
+               "date_added": "13282327427582989",
+               "guid": "eaa98812-e9ad-4043-9bf2-6325deb867e4",
+               "id": "30",
+               "name": "The Compiler Writer Resource Page",
+               "type": "url",
+               "url": "https://c9x.me/compile/bib/"
+            }, {
+               "date_added": "13282340243504341",
+               "guid": "fa6d04e0-f600-4ee4-81ea-377663cd8688",
+               "id": "32",
+               "name": "New Tab",
+               "type": "url",
+               "url": "chrome://newtab/"
+            } ],
+            "date_added": "13282324839218654",
+            "date_modified": "13282340243504341",
+            "guid": "3c76fbd9-3bc8-4b20-9161-cf6c9805d939",
+            "id": "28",
+            "name": "Compilers",
+            "type": "folder"
+         }, {
+            "date_added": "13283354137288638",
+            "guid": "d96c684c-95ca-4963-b450-d62b60de8b82",
+            "id": "63",
+            "name": "Tutorial — Rust ♡ C++",
+            "type": "url",
+            "url": "https://cxx.rs/tutorial.html"
+         }, {
+            "date_added": "13283354249439660",
+            "guid": "bba10829-8aa2-469e-9c72-3c78039279ba",
+            "id": "64",
+            "name": "Five Tips to Writing RISC-V Assembly – Stephen Marz",
+            "type": "url",
+            "url": "https://blog.stephenmarz.com/2021/05/12/tips-to-writing-assembly/"
+         }, {
+            "date_added": "13283391456235806",
+            "guid": "90d93e1d-6507-4be8-a980-81767e6686c2",
+            "id": "71",
+            "name": "Organise your commits",
+            "type": "url",
+            "url": "https://www.ncameron.org/blog/organise-your-commits/"
+         } ],
+         "date_added": "13281297373114402",
+         "date_modified": "13285111562290509",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13281297373114404",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13281297373114407",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

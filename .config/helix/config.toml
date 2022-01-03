@@ -1,0 +1,8 @@
+
+theme = "gruvbox"
+
+
+[keys.insert]
+"C-l" = "normal_mode" # Maps Alt-X to enter normal mode
+"C-j" = "normal_mode" # Maps Alt-X to enter normal mode
+

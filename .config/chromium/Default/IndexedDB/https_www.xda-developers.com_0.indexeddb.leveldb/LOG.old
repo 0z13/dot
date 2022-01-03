@@ -1,0 +1,6 @@
+2021/12/25-20:45:45.246 e8e Creating DB /home/z/.config/chromium/Default/IndexedDB/https_www.xda-developers.com_0.indexeddb.leveldb since it was missing.
+2021/12/25-20:45:45.272 e8e Reusing MANIFEST /home/z/.config/chromium/Default/IndexedDB/https_www.xda-developers.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/25-20:46:29.254 e5d Level-0 table #5: started
+2021/12/25-20:46:29.264 e5d Level-0 table #5: 375 bytes OK
+2021/12/25-20:46:29.272 e5d Delete type=0 #3
+2021/12/25-20:46:29.272 e8e Manual compaction at level-0 from (begin) .. (end); will stop at (end)

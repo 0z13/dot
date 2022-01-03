@@ -1,0 +1,6 @@
+2021/12/30-00:27:36.125 97ff Creating DB /home/z/.config/chromium/Default/IndexedDB/https_sportmaster.dk_0.indexeddb.leveldb since it was missing.
+2021/12/30-00:27:36.148 97ff Reusing MANIFEST /home/z/.config/chromium/Default/IndexedDB/https_sportmaster.dk_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/30-00:28:19.432 97ff Level-0 table #5: started
+2021/12/30-00:28:19.443 97ff Level-0 table #5: 158112 bytes OK
+2021/12/30-00:28:19.454 97ff Delete type=0 #3
+2021/12/30-00:28:19.454 97ff Manual compaction at level-0 from (begin) .. (end); will stop at (end)

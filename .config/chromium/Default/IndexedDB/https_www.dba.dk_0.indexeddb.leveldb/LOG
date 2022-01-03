@@ -1,0 +1,6 @@
+2021/12/25-11:43:50.727 2636 Creating DB /home/z/.config/chromium/Default/IndexedDB/https_www.dba.dk_0.indexeddb.leveldb since it was missing.
+2021/12/25-11:43:50.753 2636 Reusing MANIFEST /home/z/.config/chromium/Default/IndexedDB/https_www.dba.dk_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/25-11:43:54.499 252b Level-0 table #5: started
+2021/12/25-11:43:54.507 252b Level-0 table #5: 345 bytes OK
+2021/12/25-11:43:54.519 252b Delete type=0 #3
+2021/12/25-11:43:54.519 252b Manual compaction at level-0 from (begin) .. (end); will stop at (end)

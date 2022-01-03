@@ -1,0 +1,6 @@
+2021/11/28-17:57:40.341 38bc Creating DB /home/z/.config/chromium/Default/IndexedDB/https_www.eventyrsport.dk_0.indexeddb.leveldb since it was missing.
+2021/11/28-17:57:40.366 38bc Reusing MANIFEST /home/z/.config/chromium/Default/IndexedDB/https_www.eventyrsport.dk_0.indexeddb.leveldb/MANIFEST-000001
+2021/11/28-17:58:05.508 3b43 Level-0 table #5: started
+2021/11/28-17:58:05.515 3b43 Level-0 table #5: 1619 bytes OK
+2021/11/28-17:58:05.527 3b43 Delete type=0 #3
+2021/11/28-17:58:05.527 3b43 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

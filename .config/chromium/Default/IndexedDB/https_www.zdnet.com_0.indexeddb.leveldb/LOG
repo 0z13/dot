@@ -1,0 +1,6 @@
+2021/12/09-04:48:38.020 4348 Creating DB /home/z/.config/chromium/Default/IndexedDB/https_www.zdnet.com_0.indexeddb.leveldb since it was missing.
+2021/12/09-04:48:38.048 4348 Reusing MANIFEST /home/z/.config/chromium/Default/IndexedDB/https_www.zdnet.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/09-04:48:41.774 4336 Level-0 table #5: started
+2021/12/09-04:48:41.782 4336 Level-0 table #5: 836 bytes OK
+2021/12/09-04:48:41.793 4336 Delete type=0 #3
+2021/12/09-04:48:41.793 4336 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

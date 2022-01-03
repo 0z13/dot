@@ -1,0 +1,6 @@
+2021/12/02-14:34:45.863 307d Creating DB /home/z/.config/chromium/Default/IndexedDB/https_www.wwf.pl_0.indexeddb.leveldb since it was missing.
+2021/12/02-14:34:45.886 307d Reusing MANIFEST /home/z/.config/chromium/Default/IndexedDB/https_www.wwf.pl_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/02-15:13:39.952 3ac9 Level-0 table #5: started
+2021/12/02-15:13:39.962 3ac9 Level-0 table #5: 2151 bytes OK
+2021/12/02-15:13:39.975 3ac9 Delete type=0 #3
+2021/12/02-15:13:39.975 3ac9 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

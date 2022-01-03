@@ -1,0 +1,7 @@
+2021/12/29-00:58:56.596 3730 Reusing MANIFEST /home/z/.config/chromium/Default/IndexedDB/https_www.power.dk_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/29-00:58:56.597 3730 Recovering log #3
+2021/12/29-00:58:56.600 3730 Reusing old log /home/z/.config/chromium/Default/IndexedDB/https_www.power.dk_0.indexeddb.leveldb/000003.log 
+2021/12/29-00:59:52.020 37dc Level-0 table #5: started
+2021/12/29-00:59:52.030 37dc Level-0 table #5: 73778 bytes OK
+2021/12/29-00:59:52.041 37dc Delete type=0 #3
+2021/12/29-00:59:52.041 37dc Manual compaction at level-0 from (begin) .. (end); will stop at (end)

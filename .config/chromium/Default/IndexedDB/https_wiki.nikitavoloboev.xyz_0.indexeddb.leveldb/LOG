@@ -1,0 +1,18 @@
+2021/11/16-16:47:30.636 24e9 Creating DB /home/z/.config/chromium/Default/IndexedDB/https_wiki.nikitavoloboev.xyz_0.indexeddb.leveldb since it was missing.
+2021/11/16-16:47:30.661 24e9 Reusing MANIFEST /home/z/.config/chromium/Default/IndexedDB/https_wiki.nikitavoloboev.xyz_0.indexeddb.leveldb/MANIFEST-000001
+2021/11/16-16:47:31.158 24ea Level-0 table #5: started
+2021/11/16-16:47:31.166 24ea Level-0 table #5: 1371 bytes OK
+2021/11/16-16:47:31.174 24ea Delete type=0 #3
+2021/11/16-16:47:31.174 24ea Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/11/16-16:55:10.310 24e8 Level-0 table #7: started
+2021/11/16-16:55:10.319 24e8 Level-0 table #7: 1946 bytes OK
+2021/11/16-16:55:10.329 24e8 Delete type=0 #4
+2021/11/16-16:55:10.329 24e8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/11/16-16:55:10.330 24e8 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x03\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x009\x005\x008\x002\x008\x005\x005\x008\x003\x000\x004\x003\x00:\x00w\x00e\x00b\x00:\x009\x00c\x008\x000\x004\x007\x005\x00f\x00a\x00a\x008\x00b\x00c\x009\x00f\x009\x00c\x00b\x000\x008\x007\x006' @ 123 : 1
+2021/11/16-16:55:10.330 24e8 Compacting 1@1 + 1@2 files
+2021/11/16-16:55:10.340 24e8 Generated table #8@1: 38 keys, 1551 bytes
+2021/11/16-16:55:10.340 24e8 Compacted 1@1 + 1@2 files => 1551 bytes
+2021/11/16-16:55:10.351 24e8 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/11/16-16:55:10.351 24e8 Delete type=2 #7
+2021/11/16-16:55:10.351 24e8 Delete type=2 #5
+2021/11/16-16:55:10.351 24e8 Manual compaction at level-1 from '\x00\x03\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x009\x005\x008\x002\x008\x005\x005\x008\x003\x000\x004\x003\x00:\x00w\x00e\x00b\x00:\x009\x00c\x008\x000\x004\x007\x005\x00f\x00a\x00a\x008\x00b\x00c\x009\x00f\x009\x00c\x00b\x000\x008\x007\x006' @ 123 : 1 .. (end); will stop at (end)

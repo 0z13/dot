@@ -1,0 +1,25 @@
+2021/12/29-17:24:55.597 72a9 Reusing MANIFEST /home/z/.config/chromium/Default/IndexedDB/https_www.glamira.dk_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/29-17:24:55.598 72a9 Recovering log #59
+2021/12/29-17:24:55.598 72a9 Reusing old log /home/z/.config/chromium/Default/IndexedDB/https_www.glamira.dk_0.indexeddb.leveldb/000059.log 
+2021/12/29-17:24:55.598 72a9 Delete type=2 #58
+2021/12/29-17:24:57.497 770a Level-0 table #64: started
+2021/12/29-17:24:57.505 770a Level-0 table #64: 611 bytes OK
+2021/12/29-17:24:57.516 770a Delete type=0 #59
+2021/12/29-17:24:57.516 770a Manual compaction at level-0 from '\x00\x12\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x13\x00\x00\x00' @ 0 : 0; will stop at '\x00\x13\x00\x00\x05' @ 337 : 1
+2021/12/29-17:24:57.516 770a Compacting 1@0 + 1@1 files
+2021/12/29-17:24:57.524 770a Generated table #65@0: 7 keys, 381 bytes
+2021/12/29-17:24:57.524 770a Compacted 1@0 + 1@1 files => 381 bytes
+2021/12/29-17:24:57.535 770a compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/12/29-17:24:57.535 770a Delete type=2 #64
+2021/12/29-17:24:57.536 770a Manual compaction at level-0 from '\x00\x13\x00\x00\x05' @ 337 : 1 .. '\x00\x13\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/12/29-17:24:57.536 770a Level-0 table #67: started
+2021/12/29-17:24:57.543 770a Level-0 table #67: 478 bytes OK
+2021/12/29-17:24:57.554 770a Delete type=2 #61
+2021/12/29-17:24:57.555 770a Delete type=0 #63
+2021/12/29-17:24:57.555 770a Manual compaction at level-0 from '\x00\x13\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x14\x00\x00\x00' @ 0 : 0; will stop at '\x00\x13\x00\x00\x05' @ 364 : 0
+2021/12/29-17:24:57.555 770a Compacting 1@0 + 1@1 files
+2021/12/29-17:24:57.564 770a Generated table #68@0: 4 keys, 240 bytes
+2021/12/29-17:24:57.564 770a Compacted 1@0 + 1@1 files => 240 bytes
+2021/12/29-17:24:57.575 770a compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/12/29-17:24:57.575 770a Delete type=2 #67
+2021/12/29-17:24:57.575 770a Manual compaction at level-0 from '\x00\x13\x00\x00\x05' @ 364 : 0 .. '\x00\x14\x00\x00\x00' @ 0 : 0; will stop at (end)

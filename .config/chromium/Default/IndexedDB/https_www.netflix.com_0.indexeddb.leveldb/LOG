@@ -1,0 +1,17 @@
+2021/12/11-09:05:18.944 10fd9 Creating DB /home/z/.config/chromium/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb since it was missing.
+2021/12/11-09:05:18.968 10fd9 Reusing MANIFEST /home/z/.config/chromium/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/11-09:56:45.666 10fd9 Level-0 table #5: started
+2021/12/11-09:56:45.690 10fd9 Level-0 table #5: 1991402 bytes OK
+2021/12/11-09:56:45.703 10fd9 Delete type=0 #3
+2021/12/11-10:14:56.109 11090 Level-0 table #7: started
+2021/12/11-10:14:56.122 11090 Level-0 table #7: 788219 bytes OK
+2021/12/11-10:14:56.132 11090 Delete type=0 #4
+2021/12/11-10:14:56.133 11090 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/12/11-10:14:56.133 11090 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x01\x0e\x00u\x00n\x00s\x00e\x00n\x00t\x00p\x00l\x00a\x00y\x00d\x00a\x00t\x00a' @ 10769 : 1
+2021/12/11-10:14:56.133 11090 Compacting 1@1 + 1@2 files
+2021/12/11-10:14:56.147 11090 Generated table #8@1: 50 keys, 9834 bytes
+2021/12/11-10:14:56.147 11090 Compacted 1@1 + 1@2 files => 9834 bytes
+2021/12/11-10:14:56.158 11090 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/12/11-10:14:56.158 11090 Delete type=2 #7
+2021/12/11-10:14:56.158 11090 Delete type=2 #5
+2021/12/11-10:14:56.158 11090 Manual compaction at level-1 from '\x00\x02\x01\x02\x01\x0e\x00u\x00n\x00s\x00e\x00n\x00t\x00p\x00l\x00a\x00y\x00d\x00a\x00t\x00a' @ 10769 : 1 .. (end); will stop at (end)

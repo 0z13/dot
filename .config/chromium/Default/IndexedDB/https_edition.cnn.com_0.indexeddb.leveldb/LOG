@@ -1,0 +1,7 @@
+2021/12/28-19:50:20.503 acd Reusing MANIFEST /home/z/.config/chromium/Default/IndexedDB/https_edition.cnn.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/28-19:50:20.503 acd Recovering log #4
+2021/12/28-19:50:20.503 acd Reusing old log /home/z/.config/chromium/Default/IndexedDB/https_edition.cnn.com_0.indexeddb.leveldb/000004.log 
+2021/12/28-19:50:25.902 c20 Level-0 table #8: started
+2021/12/28-19:50:25.909 c20 Level-0 table #8: 1021 bytes OK
+2021/12/28-19:50:25.920 c20 Delete type=0 #4
+2021/12/28-19:50:25.920 c20 Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)

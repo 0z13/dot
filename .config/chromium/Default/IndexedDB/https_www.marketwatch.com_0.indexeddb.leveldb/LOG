@@ -1,0 +1,6 @@
+2021/11/24-15:32:28.321 266b Creating DB /home/z/.config/chromium/Default/IndexedDB/https_www.marketwatch.com_0.indexeddb.leveldb since it was missing.
+2021/11/24-15:32:28.345 266b Reusing MANIFEST /home/z/.config/chromium/Default/IndexedDB/https_www.marketwatch.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/11/24-15:32:36.198 27a4 Level-0 table #5: started
+2021/11/24-15:32:36.206 27a4 Level-0 table #5: 2220 bytes OK
+2021/11/24-15:32:36.217 27a4 Delete type=0 #3
+2021/11/24-15:32:36.217 27a4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

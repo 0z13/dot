@@ -1,0 +1,13 @@
+2021/12/30-01:17:45.509 9b55 Reusing MANIFEST /home/z/.config/chromium/Default/IndexedDB/https_odysee.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/30-01:17:45.510 9b55 Recovering log #21
+2021/12/30-01:17:45.510 9b55 Reusing old log /home/z/.config/chromium/Default/IndexedDB/https_odysee.com_0.indexeddb.leveldb/000021.log 
+2021/12/30-01:17:45.626 9b55 Level-0 table #25: started
+2021/12/30-01:17:45.636 9b55 Level-0 table #25: 27030 bytes OK
+2021/12/30-01:17:45.647 9b55 Delete type=0 #21
+2021/12/30-01:17:45.647 9b55 Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at '\x00\x07\x00\x00\x05' @ 2707 : 1
+2021/12/30-01:17:45.647 9b55 Compacting 1@0 + 1@1 files
+2021/12/30-01:17:45.656 9b55 Generated table #26@0: 42 keys, 3353 bytes
+2021/12/30-01:17:45.656 9b55 Compacted 1@0 + 1@1 files => 3353 bytes
+2021/12/30-01:17:45.666 9b55 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/12/30-01:17:45.667 9b55 Delete type=2 #25
+2021/12/30-01:17:45.667 9b55 Manual compaction at level-0 from '\x00\x07\x00\x00\x05' @ 2707 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -1,0 +1,6 @@
+2021/11/28-12:33:53.087 2fa4 Creating DB /home/z/.config/chromium/Default/IndexedDB/https_www.wardow.com_0.indexeddb.leveldb since it was missing.
+2021/11/28-12:33:53.112 2fa4 Reusing MANIFEST /home/z/.config/chromium/Default/IndexedDB/https_www.wardow.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/11/28-12:33:55.530 306c Level-0 table #5: started
+2021/11/28-12:33:55.535 306c Level-0 table #5: 3040 bytes OK
+2021/11/28-12:33:55.546 306c Delete type=0 #3
+2021/11/28-12:33:55.547 306c Manual compaction at level-0 from (begin) .. (end); will stop at (end)

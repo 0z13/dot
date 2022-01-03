@@ -1,0 +1,7 @@
+2021/12/13-11:38:03.246 44b3 Reusing MANIFEST /home/z/.config/chromium/Default/IndexedDB/https_www.flashscore.dk_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/13-11:38:03.246 44b3 Recovering log #4
+2021/12/13-11:38:03.246 44b3 Reusing old log /home/z/.config/chromium/Default/IndexedDB/https_www.flashscore.dk_0.indexeddb.leveldb/000004.log 
+2021/12/13-11:38:03.454 4414 Level-0 table #8: started
+2021/12/13-11:38:03.464 4414 Level-0 table #8: 611 bytes OK
+2021/12/13-11:38:03.474 4414 Delete type=0 #4
+2021/12/13-11:38:03.474 4414 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)

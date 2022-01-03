@@ -1,0 +1,6 @@
+2021/12/09-04:03:43.657 3d7f Creating DB /home/z/.config/chromium/Default/IndexedDB/https_www.merriam-webster.com_0.indexeddb.leveldb since it was missing.
+2021/12/09-04:03:43.679 3d7f Reusing MANIFEST /home/z/.config/chromium/Default/IndexedDB/https_www.merriam-webster.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/09-04:03:48.701 3d7c Level-0 table #5: started
+2021/12/09-04:03:48.709 3d7c Level-0 table #5: 397 bytes OK
+2021/12/09-04:03:48.715 3d7c Delete type=0 #3
+2021/12/09-04:03:48.715 3d7c Manual compaction at level-0 from (begin) .. (end); will stop at (end)

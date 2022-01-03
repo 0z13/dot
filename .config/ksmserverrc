@@ -1,0 +1,14 @@
+[$Version]
+update_info=ksmserver_update_loginMode_value.upd:ksmserver_update_loginMode_value_default_enum
+
+[LegacySession: saved at previous logout]
+count=0
+
+[Session: saved at previous logout]
+clientId1=10c6726561000163682229600000042120009
+count=1
+discardCommand1[$e]=rm,$HOME/.config/session/konsole_10c6726561000163682229600000042120009_1640341575_468175
+program1=/run/current-system/sw/bin/konsole
+restartCommand1=/run/current-system/sw/bin/konsole,-session,10c6726561000163682229600000042120009_1640341575_468175,-name,konsole
+restartStyleHint1=0
+userId1=z

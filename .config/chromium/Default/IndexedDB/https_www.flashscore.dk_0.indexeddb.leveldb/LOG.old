@@ -1,0 +1,6 @@
+2021/12/13-11:35:29.229 45bf Creating DB /home/z/.config/chromium/Default/IndexedDB/https_www.flashscore.dk_0.indexeddb.leveldb since it was missing.
+2021/12/13-11:35:29.263 45bf Reusing MANIFEST /home/z/.config/chromium/Default/IndexedDB/https_www.flashscore.dk_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/13-11:35:29.510 45bf Level-0 table #5: started
+2021/12/13-11:35:29.526 45bf Level-0 table #5: 629 bytes OK
+2021/12/13-11:35:29.544 45bf Delete type=0 #3
+2021/12/13-11:35:29.544 45bf Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

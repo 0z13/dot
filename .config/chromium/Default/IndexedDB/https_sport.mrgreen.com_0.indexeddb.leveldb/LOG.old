@@ -1,0 +1,6 @@
+2021/12/14-15:12:26.312 79d0 Creating DB /home/z/.config/chromium/Default/IndexedDB/https_sport.mrgreen.com_0.indexeddb.leveldb since it was missing.
+2021/12/14-15:12:26.338 79d0 Reusing MANIFEST /home/z/.config/chromium/Default/IndexedDB/https_sport.mrgreen.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/14-16:10:39.666 81e0 Level-0 table #5: started
+2021/12/14-16:10:39.674 81e0 Level-0 table #5: 1150 bytes OK
+2021/12/14-16:10:39.685 81e0 Delete type=0 #3
+2021/12/14-16:10:39.685 81e0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

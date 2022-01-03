@@ -1,0 +1,7 @@
+2021/11/26-12:12:58.846 5f55 Reusing MANIFEST /home/z/.config/chromium/Default/IndexedDB/https_xiayingp.gitbook.io_0.indexeddb.leveldb/MANIFEST-000001
+2021/11/26-12:12:58.846 5f55 Recovering log #14
+2021/11/26-12:12:58.846 5f55 Reusing old log /home/z/.config/chromium/Default/IndexedDB/https_xiayingp.gitbook.io_0.indexeddb.leveldb/000014.log 
+2021/11/26-12:12:59.044 5f56 Level-0 table #20: started
+2021/11/26-12:12:59.051 5f56 Level-0 table #20: 593 bytes OK
+2021/11/26-12:12:59.061 5f56 Delete type=0 #14
+2021/11/26-12:12:59.061 5f56 Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)

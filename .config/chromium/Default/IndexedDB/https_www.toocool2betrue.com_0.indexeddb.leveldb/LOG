@@ -1,0 +1,6 @@
+2021/12/09-17:57:10.458 7b9 Creating DB /home/z/.config/chromium/Default/IndexedDB/https_www.toocool2betrue.com_0.indexeddb.leveldb since it was missing.
+2021/12/09-17:57:10.484 7b9 Reusing MANIFEST /home/z/.config/chromium/Default/IndexedDB/https_www.toocool2betrue.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/09-17:57:25.457 7b9 Level-0 table #5: started
+2021/12/09-17:57:25.465 7b9 Level-0 table #5: 395 bytes OK
+2021/12/09-17:57:25.474 7b9 Delete type=0 #3
+2021/12/09-17:57:25.474 7b9 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

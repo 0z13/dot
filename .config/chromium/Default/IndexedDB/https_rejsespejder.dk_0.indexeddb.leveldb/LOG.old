@@ -1,0 +1,6 @@
+2021/11/20-20:39:16.429 15c8 Creating DB /home/z/.config/chromium/Default/IndexedDB/https_rejsespejder.dk_0.indexeddb.leveldb since it was missing.
+2021/11/20-20:39:16.457 15c8 Reusing MANIFEST /home/z/.config/chromium/Default/IndexedDB/https_rejsespejder.dk_0.indexeddb.leveldb/MANIFEST-000001
+2021/11/20-22:48:39.481 23c3 Level-0 table #5: started
+2021/11/20-22:48:39.489 23c3 Level-0 table #5: 13616 bytes OK
+2021/11/20-22:48:39.498 23c3 Delete type=0 #3
+2021/11/20-22:48:39.498 23c3 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

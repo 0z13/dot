@@ -1,0 +1,15 @@
+2021/12/21-15:34:16.222 11bf Reusing MANIFEST /home/z/.config/chromium/Default/IndexedDB/https_mobile.twitter.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/21-15:34:16.222 11bf Recovering log #4
+2021/12/21-15:34:16.222 11bf Reusing old log /home/z/.config/chromium/Default/IndexedDB/https_mobile.twitter.com_0.indexeddb.leveldb/000004.log 
+2021/12/21-15:35:25.421 11bf Level-0 table #8: started
+2021/12/21-15:35:25.428 11bf Level-0 table #8: 1332 bytes OK
+2021/12/21-15:35:25.439 11bf Delete type=0 #4
+2021/12/21-15:35:25.439 11bf Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/12/21-15:35:25.439 11bf Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x03\x01\x1a\x00d\x00e\x00v\x00i\x00c\x00e\x00:\x00r\x00w\x00e\x00b\x00.\x00a\x00r\x00t\x00i\x00c\x00l\x00e\x00D\x00o\x00m\x00a\x00i\x00n\x00s' @ 190 : 0
+2021/12/21-15:35:25.439 11bf Compacting 1@1 + 1@2 files
+2021/12/21-15:35:25.444 11bf Generated table #9@1: 39 keys, 1126 bytes
+2021/12/21-15:35:25.444 11bf Compacted 1@1 + 1@2 files => 1126 bytes
+2021/12/21-15:35:25.455 11bf compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/12/21-15:35:25.455 11bf Delete type=2 #8
+2021/12/21-15:35:25.455 11bf Delete type=2 #5
+2021/12/21-15:35:25.455 11bf Manual compaction at level-1 from '\x00\x01\x01\x03\x01\x1a\x00d\x00e\x00v\x00i\x00c\x00e\x00:\x00r\x00w\x00e\x00b\x00.\x00a\x00r\x00t\x00i\x00c\x00l\x00e\x00D\x00o\x00m\x00a\x00i\x00n\x00s' @ 190 : 0 .. (end); will stop at (end)
